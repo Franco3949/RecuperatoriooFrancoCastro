@@ -1,0 +1,9 @@
+C:\Users\Franco\Desktop\Recuperatorio Programacion\RecuperatorioSegundoParcialTema2-master\ParcialDeJohnDoe.Datos\obj\Debug\POOOrtoedros.Datos.csproj.AssemblyReference.cache
+C:\Users\Franco\Desktop\Recuperatorio Programacion\RecuperatorioSegundoParcialTema2-master\ParcialDeJohnDoe.Datos\obj\Debug\POOOrtoedros.Datos.csproj.CoreCompileInputs.cache
+C:\Users\Franco\Desktop\Recuperatorio Programacion\RecuperatorioSegundoParcialTema2-master\ParcialDeJohnDoe.Datos\bin\Debug\ParcialDeJohnDoe.Datos.dll
+C:\Users\Franco\Desktop\Recuperatorio Programacion\RecuperatorioSegundoParcialTema2-master\ParcialDeJohnDoe.Datos\bin\Debug\ParcialDeJohnDoe.Datos.pdb
+C:\Users\Franco\Desktop\Recuperatorio Programacion\RecuperatorioSegundoParcialTema2-master\ParcialDeJohnDoe.Datos\bin\Debug\ParcialDeJohnDoe.Entidades.dll
+C:\Users\Franco\Desktop\Recuperatorio Programacion\RecuperatorioSegundoParcialTema2-master\ParcialDeJohnDoe.Datos\bin\Debug\ParcialDeJohnDoe.Entidades.pdb
+C:\Users\Franco\Desktop\Recuperatorio Programacion\RecuperatorioSegundoParcialTema2-master\ParcialDeJohnDoe.Datos\obj\Debug\POOOrtoedros.Datos.csproj.CopyComplete
+C:\Users\Franco\Desktop\Recuperatorio Programacion\RecuperatorioSegundoParcialTema2-master\ParcialDeJohnDoe.Datos\obj\Debug\ParcialDeJohnDoe.Datos.dll
+C:\Users\Franco\Desktop\Recuperatorio Programacion\RecuperatorioSegundoParcialTema2-master\ParcialDeJohnDoe.Datos\obj\Debug\ParcialDeJohnDoe.Datos.pdb

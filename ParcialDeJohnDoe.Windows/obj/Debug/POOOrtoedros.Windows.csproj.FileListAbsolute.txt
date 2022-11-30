@@ -1,0 +1,16 @@
+C:\Users\Franco\Desktop\Recuperatorio Programacion\RecuperatorioSegundoParcialTema2-master\ParcialDeJohnDoe.Windows\obj\Debug\POOOrtoedros.Windows.csproj.AssemblyReference.cache
+C:\Users\Franco\Desktop\Recuperatorio Programacion\RecuperatorioSegundoParcialTema2-master\ParcialDeJohnDoe.Windows\obj\Debug\ParcialDeJohnDoe.Windows.frmOrtoedrosAE.resources
+C:\Users\Franco\Desktop\Recuperatorio Programacion\RecuperatorioSegundoParcialTema2-master\ParcialDeJohnDoe.Windows\obj\Debug\ParcialDeJohnDoe.Windows.frmPrincipal.resources
+C:\Users\Franco\Desktop\Recuperatorio Programacion\RecuperatorioSegundoParcialTema2-master\ParcialDeJohnDoe.Windows\obj\Debug\ParcialDeJohnDoe.Windows.Properties.Resources.resources
+C:\Users\Franco\Desktop\Recuperatorio Programacion\RecuperatorioSegundoParcialTema2-master\ParcialDeJohnDoe.Windows\obj\Debug\POOOrtoedros.Windows.csproj.GenerateResource.cache
+C:\Users\Franco\Desktop\Recuperatorio Programacion\RecuperatorioSegundoParcialTema2-master\ParcialDeJohnDoe.Windows\obj\Debug\POOOrtoedros.Windows.csproj.CoreCompileInputs.cache
+C:\Users\Franco\Desktop\Recuperatorio Programacion\RecuperatorioSegundoParcialTema2-master\ParcialDeJohnDoe.Windows\bin\Debug\ParcialDeJohnDoe.Windows.exe.config
+C:\Users\Franco\Desktop\Recuperatorio Programacion\RecuperatorioSegundoParcialTema2-master\ParcialDeJohnDoe.Windows\bin\Debug\ParcialDeJohnDoe.Windows.exe
+C:\Users\Franco\Desktop\Recuperatorio Programacion\RecuperatorioSegundoParcialTema2-master\ParcialDeJohnDoe.Windows\bin\Debug\ParcialDeJohnDoe.Windows.pdb
+C:\Users\Franco\Desktop\Recuperatorio Programacion\RecuperatorioSegundoParcialTema2-master\ParcialDeJohnDoe.Windows\bin\Debug\ParcialDeJohnDoe.Datos.dll
+C:\Users\Franco\Desktop\Recuperatorio Programacion\RecuperatorioSegundoParcialTema2-master\ParcialDeJohnDoe.Windows\bin\Debug\ParcialDeJohnDoe.Entidades.dll
+C:\Users\Franco\Desktop\Recuperatorio Programacion\RecuperatorioSegundoParcialTema2-master\ParcialDeJohnDoe.Windows\bin\Debug\ParcialDeJohnDoe.Datos.pdb
+C:\Users\Franco\Desktop\Recuperatorio Programacion\RecuperatorioSegundoParcialTema2-master\ParcialDeJohnDoe.Windows\bin\Debug\ParcialDeJohnDoe.Entidades.pdb
+C:\Users\Franco\Desktop\Recuperatorio Programacion\RecuperatorioSegundoParcialTema2-master\ParcialDeJohnDoe.Windows\obj\Debug\POOOrtoedros.Windows.csproj.CopyComplete
+C:\Users\Franco\Desktop\Recuperatorio Programacion\RecuperatorioSegundoParcialTema2-master\ParcialDeJohnDoe.Windows\obj\Debug\ParcialDeJohnDoe.Windows.exe
+C:\Users\Franco\Desktop\Recuperatorio Programacion\RecuperatorioSegundoParcialTema2-master\ParcialDeJohnDoe.Windows\obj\Debug\ParcialDeJohnDoe.Windows.pdb
